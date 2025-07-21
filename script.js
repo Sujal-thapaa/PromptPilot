@@ -68,6 +68,101 @@ const qaDatabase = {
     &nbsp;&nbsp;- <a href="https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w627122mg" target="_blank">Search calm cinematic royalty-free music</a><br>
     &nbsp;&nbsp;- Prompt: Search calm cinematic royalty-free music<br><br>
     Let me know if you want more details on any step!`,
+    // Instagram carousel for a product launch
+    "instagram carousel for a product launch": `Here is a step-by-step guide for creating an Instagram carousel for a product launch using AI tools:<br><br>
+    <b>1. Carousel Template Design</b><br>
+    &nbsp;&nbsp;- Add-on: Product Launch Carousel Templates<br>
+    &nbsp;&nbsp;- Task: Choose a carousel layout that fits your brand<br>
+    &nbsp;&nbsp;- Prompt: Load product launch carousel layout<br><br>
+    <b>2. Product Description Copywriting</b><br>
+    &nbsp;&nbsp;- Add-on: Magic Writing<br>
+    &nbsp;&nbsp;- Task: Write short, catchy descriptions for each slide<br>
+    &nbsp;&nbsp;- Prompt: Write engaging product copy for 5-slide carousel<br><br>
+    <b>3. Image Enhancement</b><br>
+    &nbsp;&nbsp;- Add-on: AI Image Enhancer<br>
+    &nbsp;&nbsp;- Task: Improve clarity and brightness of product images<br>
+    &nbsp;&nbsp;- Prompt: Enhance product image for Instagram display<br><br>
+    <b>4. Call-to-Action Slide</b><br>
+    &nbsp;&nbsp;- Add-on: CTA Slide Builder<br>
+    &nbsp;&nbsp;- Task: Design the final slide with your promo or CTA<br>
+    &nbsp;&nbsp;- Prompt: Create final slide with “Shop Now” call-to-action<br><br>
+    <b>5. Hashtag Generator</b><br>
+    &nbsp;&nbsp;- Add-on: SocialHashtag AI<br>
+    &nbsp;&nbsp;- Task: Generate relevant hashtags for reach<br>
+    &nbsp;&nbsp;- Prompt: Generate hashtags for product launch in tech niche<br><br>
+    Let me know if you want more details on any step!`,
+
+    // Resume for a graphic designer
+    "resume for a graphic designer": `Here is a step-by-step guide for creating a professional graphic designer resume using AI tools:<br><br>
+    <b>1. Resume Template Selection</b><br>
+    &nbsp;&nbsp;- Add-on: Modern Resume Templates<br>
+    &nbsp;&nbsp;- Task: Choose a creative, clean resume layout<br>
+    &nbsp;&nbsp;- Prompt: Load modern resume template for a designer<br><br>
+    <b>2. Professional Bio Writing</b><br>
+    &nbsp;&nbsp;- Add-on: Magic Writing<br>
+    &nbsp;&nbsp;- Task: Generate a brief summary/bio section<br>
+    &nbsp;&nbsp;- Prompt: Write a 2–3 sentence professional summary for a graphic designer<br><br>
+    <b>3. Skills & Tools Section</b><br>
+    &nbsp;&nbsp;- Add-on: SkillSet Designer<br>
+    &nbsp;&nbsp;- Task: Display software and creative skills visually<br>
+    &nbsp;&nbsp;- Prompt: Add icons and descriptions for Adobe Creative Suite, Figma, Canva, etc.<br><br>
+    <b>4. Portfolio Section Integration</b><br>
+    &nbsp;&nbsp;- Add-on: Portfolio Snippet Embedder<br>
+    &nbsp;&nbsp;- Task: Showcase 2–3 sample projects visually<br>
+    &nbsp;&nbsp;- Prompt: Embed design previews from Behance or Dribbble<br><br>
+    <b>5. Export for Web & Print</b><br>
+    &nbsp;&nbsp;- Add-on: Smart Export Tools<br>
+    &nbsp;&nbsp;- Task: Prepare optimized versions for job portals and direct sharing<br>
+    &nbsp;&nbsp;- Prompt: Export for web and high-resolution PDF<br><br>
+    Let me know if you want more details on any step!`,
+
+    // Poster for a college event
+    "poster for a college event": `Here is a step-by-step guide for creating a college event poster using AI tools:<br><br>
+    <b>1. Poster Template Selection</b><br>
+    &nbsp;&nbsp;- Add-on: Event Poster Templates<br>
+    &nbsp;&nbsp;- Task: Choose a layout suitable for campus events<br>
+    &nbsp;&nbsp;- Prompt: Load poster layout for university event<br><br>
+    <b>2. Event Details Writing</b><br>
+    &nbsp;&nbsp;- Add-on: Magic Writing<br>
+    &nbsp;&nbsp;- Task: Write a clear and engaging event description<br>
+    &nbsp;&nbsp;- Prompt: Write a catchy text for an open mic night at college<br><br>
+    <b>3. Visual Theme and Icons</b><br>
+    &nbsp;&nbsp;- Add-on: IconFinder Express<br>
+    &nbsp;&nbsp;- Task: Add icons or illustrations related to the event (e.g., music, microphone)<br>
+    &nbsp;&nbsp;- Prompt: Add music and stage icons to the design<br><br>
+    <b>4. Date & Location Styling</b><br>
+    &nbsp;&nbsp;- Add-on: Typography Booster<br>
+    &nbsp;&nbsp;- Task: Highlight important info like time and venue<br>
+    &nbsp;&nbsp;- Prompt: Emphasize “Friday, 7 PM @ Student Union Hall”<br><br>
+    <b>5. QR Code or Registration Link</b><br>
+    &nbsp;&nbsp;- Add-on: QR Code Generator<br>
+    &nbsp;&nbsp;- Task: Add scannable RSVP or ticket link<br>
+    &nbsp;&nbsp;- Prompt: Generate QR code for event registration form<br><br>
+    Let me know if you want more details on any step!`,
+
+    // Presentation on AI for school
+    "presentation on ai for school": `Here is a step-by-step guide for creating a school presentation on AI using Adobe Express Add-ons:<br><br>
+    <b>1. Presentation Slide Template</b><br>
+    &nbsp;&nbsp;- Add-on: AI & Tech Slide Decks<br>
+    &nbsp;&nbsp;- Task: Choose a modern slide design template<br>
+    &nbsp;&nbsp;- Prompt: Load a 10-slide tech-themed presentation template<br><br>
+    <b>2. Content Outline Generation</b><br>
+    &nbsp;&nbsp;- Add-on: Magic Writing<br>
+    &nbsp;&nbsp;- Task: Get a basic outline for a school-level AI presentation<br>
+    &nbsp;&nbsp;- Prompt: Create a simple presentation outline on “What is Artificial Intelligence?”<br><br>
+    <b>3. Slide-by-Slide Content Writing</b><br>
+    &nbsp;&nbsp;- Add-on: SlideText Generator<br>
+    &nbsp;&nbsp;- Task: Generate short descriptions for each slide<br>
+    &nbsp;&nbsp;- Prompt: Write content for slides on AI history, uses, pros/cons, and future<br><br>
+    <b>4. Visual Elements and Icons</b><br>
+    &nbsp;&nbsp;- Add-on: AI Illustrations Pack<br>
+    &nbsp;&nbsp;- Task: Add images and icons related to robots, data, and automation<br>
+    &nbsp;&nbsp;- Prompt: Add an illustration of a robot learning from data<br><br>
+    <b>5. Speech or Notes Section</b><br>
+    &nbsp;&nbsp;- Add-on: Speaker Notes Assistant<br>
+    &nbsp;&nbsp;- Task: Add speaker notes for student to present with confidence<br>
+    &nbsp;&nbsp;- Prompt: Add simple speech notes for each slide<br><br>
+    Let me know if you want more details on any step!`,
 };
 
 // Get current time
