@@ -313,3 +313,6 @@ setInterval(() => {
         console.log("🤖 " + randomGreeting);
     }
 }, 30000);
+
+window.sendMessage = sendMessage;
+window.handleSendMessage = handleSendMessage;
